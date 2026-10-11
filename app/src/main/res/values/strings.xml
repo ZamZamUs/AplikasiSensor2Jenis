@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Sensor Playground</string>
+    <string name="app_subtitle">Eksplorasi sensor smartphone secara langsung</string>
+
+    <!-- Sensor Indicators -->
+    <string name="sensor_motion_active">Motion Sensor: Aktif</string>
+    <string name="sensor_motion_unavailable">Motion Sensor: Tidak Tersedia</string>
+    <string name="sensor_light_active">Light Sensor: Aktif</string>
+    <string name="sensor_light_unavailable">Light Sensor: Tidak Tersedia</string>
+
+    <!-- Simulation Header -->
+    <string name="simulation_area_title">Area Simulasi Gerakan</string>
+
+    <!-- Motion Sensor Card -->
+    <string name="motion_sensor_title">Motion Sensor — Accelerometer</string>
+    <string name="motion_status_normal">Status: Stabil / Normal</string>
+    <string name="motion_status_detected">Status: Gerakan Terdeteksi</string>
+    <string name="val_x">X: %1$.2f m/s²</string>
+    <string name="val_y">Y: %1$.2f m/s²</string>
+    <string name="val_z">Z: %1$.2f m/s²</string>
+    <string name="btn_calibrate">Kalibrasi</string>
+    <string name="btn_reset">Reset</string>
+
+    <!-- Environment Sensor Card -->
+    <string name="light_sensor_title">Environment Sensor — Light Sensor</string>
+    <string name="light_condition_low">Cahaya Rendah</string>
+    <string name="light_condition_medium">Cahaya Sedang</string>
+    <string name="light_condition_high">Cahaya Tinggi</string>
+    <string name="val_lux">%1$.1f Lux</string>
+    <string name="lux_description">Tingkat Pencahayaan Lingkungan</string>
+
+    <!-- Game Elements -->
+    <string name="mode_star_catcher">🌟 Tangkap Bintang</string>
+    <string name="mode_bubble_pop">🫧 Pecah Balon</string>
+    <string name="mode_physics_lab">🧪 Lab Fisika</string>
+    <string name="hud_score">Skor: %1$d</string>
+    <string name="hud_high_score">Rekor: %1$d</string>
+    <string name="hud_level">Lv. %1$d</string>
+    <string name="hud_combo">🔥 x%1$d Combo!</string>
+    <string name="game_mode_label">Pilih Mode Permainan:</string>
+    <string name="tilt_radar_title">🧭 Radar &amp; Horizon Sensor Kemiringan</string>
+    <string name="speed_label">Kecepatan Bola: %1$.0f px/s</string>
+    <string name="gforce_label">G-Force Total: %1$.2f g</string>
+    <string name="light_perk_low">🌙 Efek: Aura Neon &amp; Bintang Berpendar Terang</string>
+    <string name="light_perk_med">🌅 Efek: Nuansa Senja &amp; Kecepatan Normal</string>
+    <string name="light_perk_high">☀️ Efek: Solar Overdrive! Bonus Poin 2x &amp; Turbo Speed</string>
+    <string name="btn_change_skin">Karakter 🎭</string>
+</resources>

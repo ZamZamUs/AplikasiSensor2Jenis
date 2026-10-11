@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Low Light Theme (Dark Slate Blue) -->
+    <color name="theme_low_bg">#0F172A</color>
+    <color name="theme_low_card">#1E293B</color>
+    <color name="theme_low_card_stroke">#334155</color>
+    <color name="theme_low_accent">#38BDF8</color>
+    <color name="theme_low_text_primary">#F8FAFC</color>
+    <color name="theme_low_text_secondary">#94A3B8</color>
+    <color name="theme_low_ball">#0284C7</color>
+
+    <!-- Medium Light Theme (Bluish Purple) -->
+    <color name="theme_med_bg">#180E29</color>
+    <color name="theme_med_card">#2A1642</color>
+    <color name="theme_med_card_stroke">#4A2373</color>
+    <color name="theme_med_accent">#A855F7</color>
+    <color name="theme_med_text_primary">#FAF5FF</color>
+    <color name="theme_med_text_secondary">#C084FC</color>
+    <color name="theme_med_ball">#9333EA</color>
+
+    <!-- High Light Theme (Bright Warm Light) -->
+    <color name="theme_high_bg">#FFF7ED</color>
+    <color name="theme_high_card">#FFFFFF</color>
+    <color name="theme_high_card_stroke">#FED7AA</color>
+    <color name="theme_high_accent">#EA580C</color>
+    <color name="theme_high_text_primary">#1C1917</color>
+    <color name="theme_high_text_secondary">#78350F</color>
+    <color name="theme_high_ball">#F97316</color>
+
+    <!-- Motion Highlight Accent -->
+    <color name="motion_alert_color">#EF4444</color>
+
+    <!-- Status Badges -->
+    <color name="badge_active_bg">#166534</color>
+    <color name="badge_active_text">#4ADE80</color>
+    <color name="badge_inactive_bg">#991B1B</color>
+    <color name="badge_inactive_text">#FCA5A5</color>
+
+    <!-- Game & Arcade Elements -->
+    <color name="game_gold">#FBBF24</color>
+    <color name="game_gold_dark">#D97706</color>
+    <color name="game_gem">#EC4899</color>
+    <color name="game_combo">#F97316</color>
+    <color name="game_bubble">#06B6D4</color>
+    <color name="game_hazard">#EF4444</color>
+    <color name="game_hud_pill">#1E293B</color>
+    <color name="game_level_purple">#8B5CF6</color>
+</resources>
